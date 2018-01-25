@@ -1,0 +1,17 @@
+@import 'helpers/_mixin';
+@import 'base/_normalize';
+@import 'base/_variable';
+
+
+body {
+    background: #fff;
+}
+
+html .weui-cells {
+  margin-top: 0;
+}
+
+.weui-cell {
+  @include font-dpr(15px);
+}
+

@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "descributions": {
+        "DBName": "LCC",
+        "table_space": {
+            "name": ["v1", "v2", "v3"],
+            "value": ["335", "222", "333"]
+        }
+    }
+}
